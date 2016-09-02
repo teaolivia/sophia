@@ -1,0 +1,22 @@
+{
+  "name": "sophia",
+  "version": "1.0.0",
+  "description": "SOPHIA is a friend whom everybody in love with - she is fun to be around, capable at listening and intelligent.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teaolivia/sophia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teaolivia/sophia/issues"
+  },
+  "homepage": "https://github.com/teaolivia/sophia#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
